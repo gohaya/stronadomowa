@@ -1,0 +1,19 @@
+body {
+  background: #fefefe;
+}
+
+.mainHeader {
+  color:aquamarine;
+}
+
+.diaryHeader {
+  color: rgb(255, 0, 64);
+}
+
+.sectionHeader {
+  color: #1460AA;
+}
+
+.paragraph {
+  color: rgb(240, 38, 132);
+}
